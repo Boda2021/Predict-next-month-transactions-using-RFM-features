@@ -8,7 +8,8 @@ This is a source code for a [Medium](https://aigerimshopenova.medium.com/) blog 
 As a data scientist working in marketing, I was curious about data engineering part, which combines business understanding and hard skills. Therefore, I decided to create and test RFM features for a machine learning model. I believe it's quite important to have a good businees understanding before engineering featueres and know what kind of business question is needed to be answered.
 
 ### RFM
-![](img/RFM_Aika_small.png)
+![](img/RFM_Aika_small.png)![RFM_Aika_small](https://github.com/Boda2021/Predict-next-month-transactions-using-RFM-features/assets/93234922/baa35335-f36d-4da1-b58c-b06e89f687e2)
+
 
 Recency, frequency, monetary (RFM) is a marketing analysis tool used to identify a company's best customers by using the following measures:
 * Recency: How recently a customer has made a purchase
